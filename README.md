@@ -1,5 +1,5 @@
 
-<img src="C:\Users\samar\Downloads\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png"/>
+<img src="https://github.com/Sama2911arth/Sama2911arth/blob/main/https://github.com/Sama2911arth/Sama2911arth/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Banner Image"/>
 # 💫 About Me:
 Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer with a strong foundation in data structures and algorithms, passionate about building scalable and efficient applications. I enjoy solving complex coding problems, with over 100 questions solved on LeetCode, and have worked on various projects including e-commerce apps, AI-driven solutions,and more. I'm always excited to learn and collaborate on innovative projects involving AI, ML, and full stack web/mobile development. Feel free to explore my repositories and connect!
 
@@ -16,7 +16,8 @@ Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer wi
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sama2911arth&icon=0&color=8)](https://visitcount.itsvg.in)
