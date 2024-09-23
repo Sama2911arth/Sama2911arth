@@ -1,3 +1,5 @@
+
+<img src=""C:\Users\samar\Downloads\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png""/>
 # 💫 About Me:
 Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer with a strong foundation in data structures and algorithms, passionate about building scalable and efficient applications. I enjoy solving complex coding problems, with over 100 questions solved on LeetCode, and have worked on various projects including e-commerce apps, AI-driven solutions,and more. I'm always excited to learn and collaborate on innovative projects involving AI, ML, and full stack web/mobile development. Feel free to explore my repositories and connect!
 
@@ -12,14 +14,9 @@ Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer wi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sama2911arth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama2911arth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sama2911arth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sama2911arth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sama2911arth&icon=0&color=8)](https://visitcount.itsvg.in)
