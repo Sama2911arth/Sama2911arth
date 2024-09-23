@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer<br> with a strong foundation in data structures and<br> algorithms, passionate about building scalable<br> and efficient applications. I enjoy solving complex<br> coding problems, with over 100 questions solved <br>on LeetCode, and have worked on various projects<br> including e-commerce apps, AI-driven solutions,<br> and more. I'm always excited to learn and collaborate<br> on innovative projects involving AI, ML, and full stack <br>web/mobile development. Feel free to explore my <br>repositories and connect!
+Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer with a strong foundation in data structures and algorithms, passionate about building scalable and efficient applications. I enjoy solving complex coding problems, with over 100 questions solved on LeetCode, and have worked on various projects including e-commerce apps, AI-driven solutions,and more. I'm always excited to learn and collaborate on innovative projects involving AI, ML, and full stack web/mobile development. Feel free to explore my repositories and connect!
 
 
 ## 🌐 Socials:
