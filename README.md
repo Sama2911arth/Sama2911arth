@@ -1,5 +1,5 @@
 
-<img src=""C:\Users\samar\Downloads\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png""/>
+<img src="C:\Users\samar\Downloads\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png"/>
 # 💫 About Me:
 Hi, I'm Samarth Shukla 👋<br>Aspiring React Native and Full Stack Developer with a strong foundation in data structures and algorithms, passionate about building scalable and efficient applications. I enjoy solving complex coding problems, with over 100 questions solved on LeetCode, and have worked on various projects including e-commerce apps, AI-driven solutions,and more. I'm always excited to learn and collaborate on innovative projects involving AI, ML, and full stack web/mobile development. Feel free to explore my repositories and connect!
 
